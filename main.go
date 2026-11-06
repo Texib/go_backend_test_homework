@@ -1,5 +1,7 @@
 package main
 
+//Комментарий к пакету main
+
 import (
 	"fmt"
 )
